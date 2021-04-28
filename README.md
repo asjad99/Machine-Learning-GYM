@@ -288,7 +288,12 @@ The Johnson-Lindenstrauss Transform
 Singular Value Decomposition (motivation, algorithms)
 Support Vector Machines (inner products, primal problem, dual problem)
 
-
+| Topic                          | Code | 
+---------------------------------|------|
+| Generalization and Regularization|     |
+|  Hybrid-CI-System              | [Code](https://github.com/asjad99/Hybrid-CI-System) |
+| Traveling Salesmen and gentic algorithms |  [Code](https://github.com/asjad99/Genetic-Algorithms) |  
+| Neural Network                 |  [Code](https://github.com/asjad99/MLP) -A multi-layer Neural Network to solve the two spiral problem|
 
 -----------------------------------------------------------
 
