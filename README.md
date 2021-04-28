@@ -1,23 +1,28 @@
-# About: 
 
 > Humans are capable of far more than mapping immediate stimuli to immediate responses, as a deep network, or maybe an insect, would. We maintain complex, abstract models of our current situation, of ourselves, and of other people, and can use these models to anticipate different possible futures and perform long-term planning. We can merge together known concepts to represent something we’ve never experienced before—like picturing a horse wearing jeans, for instance, or imagining what we’d do if we won the lottery. This ability to handle hypotheticals, to expand our mental model space far beyond what we can experience directly—to perform abstraction and reasoning—is arguably the defining characteristic of human cognition. I call it extreme generalization: an ability to adapt to novel, never-before-experienced situations using little data or even no new data at all.
 
+> Over the past decades computers have broadly automated tasks that programmers could describe with clear rules and algorithms. 
+Modern machine learning techniques now allow us to do the same for tasks where describing the precise rules is much harder. - Jeff Bezos in his 2016 letter to Amazon shareholders:
+
+> Almost all of AI’s recent progress is through one type, in which some input data (A) is used to quickly generate some simple response (B). Being able to 
+input A and output B will transform many industries. The technical term for building this A→B software is supervised learning. These A→B systems have been
+improving rapidly, and the best ones today are built with a technology called deep learning or deep neural networks, which were loosely inspired by the brain. - Andrew NG: 
+
+---------
+
+
+# About: 
 - This Project and notebooks are currently 'work in progress'. 
 
-- It's inspired by [Open Source Society University](https://github.com/ossu/data-science), peter norvig's [pytudes project](https://github.com/norvig/pytudes#pytudes-index-of-jupyter-ipython-notebooks),
-multiple Project's by folks like: [Donne_Martin](https://github.com/donnemartin/data-science-ipython-notebooks), [Dfriends](https://dfrieds.com/), [Chris_albon](https://chrisalbon.com/) and many others. 
+- It's inspired by [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch), peter norvig's [pytudes project](https://github.com/norvig/pytudes#pytudes-index-of-jupyter-ipython-notebooks),
+multiple Project's by folks like: [Made with ML](https://github.com/GokuMohandas/MadeWithML), [ML for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers), [Chris_albon](https://chrisalbon.com/) and many others. 
 
-- Roadmap: It provides an opportunity to document some of my own learnings and acts as a [data science road map](https://i.am.ai/roadmap/#fundamentals) for self-taught learners out there to learn data science for free 
+- Roadmap: Based on It provides an opportunity to document some of my own learnings and acts as a [road map](https://github.com/asjad99/machine-learning-mindmap) for self-taught learners out there to learn data science for free 
 
 - [Computational notebooks](https://www.nature.com/articles/d41586-018-07196-1): Computational notebooks are essentially laboratory notebooks for scientific computing. We use Notebooks for Practice(as they are best suited for scientific computing). This is closely related to litrate programming paradigm(as conceived by Don Knuth) 
 
 - This is a long list. see [this great article](https://towardsdatascience.com/how-to-become-a-data-scientist-2a02ed565336) on how to approach it depending on the [Career paths you decide to take](https://workera.ai/resource_downloads/ai_career_pathways/)
 
-
-
-
-
-It is inspired from (https://github.com/asjad99/machine-learning-mindmap)
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -42,22 +47,8 @@ It is inspired from (https://github.com/asjad99/machine-learning-mindmap)
 - It Utilizes past observation data to predict future observations. e.g Can we predict which products
 that certain customer groups are more likely to purchase? 
 - It also allows us to implement cool new feature like smart reply in gmail. 
-
-- Jeff Bezos in his 2016 letter to Amazon shareholders:
-
-> Over the past decades computers have broadly automated tasks that programmers could describe with clear rules and algorithms. 
-Modern machine learning techniques now allow us to do the same for tasks where describing the precise rules is much harder.
-
-- In terms of impact most of AI technologies currently being deployed are still falling under this machine learning. 
-
-According to Andrew NG: 
-
-> Almost all of AI’s recent progress is through one type, in which some input data (A) is used to quickly generate some simple response (B). Being able to 
-input A and output B will transform many industries. The technical term for building this A→B software is supervised learning. These A→B systems have been
-improving rapidly, and the best ones today are built with a technology called deep learning or deep neural networks, which were loosely inspired by the brain. 
-
-
-Machine Learning Engineer: A machine learning engineer is someone who sits at the crossroads of data science and data engineering, and has proficiency in both data engineering and 
+- In terms of impact most of AI technologies currently being deployed are mostly falling under the category of machine learning. 
+- Machine Learning Engineer: A machine learning engineer is someone who sits at the crossroads of data science and data engineering, and has proficiency in both data engineering and 
 data science.
 
 
