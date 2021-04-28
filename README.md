@@ -288,6 +288,12 @@ The Johnson-Lindenstrauss Transform
 Singular Value Decomposition (motivation, algorithms)
 Support Vector Machines (inner products, primal problem, dual problem)
 
+
+### Bare-Bones
+
+Implementing Machine Learning Concepts from scratch:
+
+
 | Topic                          | Code | 
 ---------------------------------|------|
 | Generalization and Regularization|     |
