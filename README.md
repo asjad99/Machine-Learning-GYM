@@ -31,7 +31,7 @@ multiple Project's by folks like: [Made with ML](https://github.com/GokuMohandas
 
 
 ## Topics: 
-- {introduction] 
+- [introduction] 
 - [Data Acquizition]()
 - [Data Wrangling Tools and Libraries]()
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
@@ -87,6 +87,16 @@ How relevant are they to your goal? Is there a better source? Once you’ve pars
 you can utilize tools and methods (like Python scripts) to help you analyze them and present your findings in a report. 
 This allows you to take data no one would bother looking at and make it both clear and actionable.
 
+Clean and wrangle data into a usable state
+
+> Data engineers make sure the data the organization is using is clean, reliable, and prepped for whatever use cases may present themselves. 
+Data engineers wrangle data into a state that can then have queries run against it by data scientists.
+
+> Data Formats should be easy for computers to parse, people to read and widely used by systems in production. 
+The computations we perform must be reproducible and tweakable. Data Pipelines need to be documented. 
+
+
+
 #### Learning the tools 
 
 | Notebook                 | Description | Code |
@@ -96,6 +106,12 @@ This allows you to take data no one would bother looking at and make it both cle
 | numpy_Basics     | Learn the basics of the library that underpins scientific computing          |[Notebook](/work/datascience-GYM/Data_Munging/[Numpy]basics.ipynb)        | 
 | numpy_linear_algebra     |           |Notebook        |     
 | Pandas Basics            | Learn the basics of pandas        |[Notebook](https://github.com/asjad99/datascience-GYM/blob/master/Data_Munging/Pandas.ipynb)        |      |
+
+
+see our (data Engineering course)[https://github.com/asjad99/data-engineering-ml-ops/edit/main/README.md] for more details:
+
+-------------------------------------------------------------------------------------------------------------------
+
 
 ## Guides on Python Programming
 
