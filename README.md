@@ -219,7 +219,7 @@ The computations we perform must be reproducible and tweakable.
 * deal with corrupted/erronous  data
 * (For ML) Feature Selection: Drop the attributes that provide no useful infomration for the task 
 
-![alt text](images/data_cleaning.png "Logo Title Text 1")
+![alt text](ml_images/data_cleaning.png "Logo Title Text 1")
 
 
 | Notebook            | Description | Code |
@@ -246,9 +246,9 @@ behavior under new conditions. we study Problems like: Regression, Clustering, C
 
 Machine Learning folks divide themselves in different tribes (popularized by peter domingos - Author of master algorithm)
 
-![alt text](images/ml_tribes.png "Logo Title Text 1")
+![alt text](ml_images/ml_tribes.png "Logo Title Text 1")
 
-![alt text](images/machine_learning_1.jpg "Logo Title Text 1")
+![alt text](ml_images/machine_learning_1.jpg "Logo Title Text 1")
 
 
 > In tackling machine learning (and computer science in general) we face some deep philosophical questions. Questions like, “What does it mean to learn?” and, “Can a computer learn?” and, “How do you define simplicity?” and, “Why does Occam’s Razor work? (Why do simple hypotheses do well at modelling reality?)” In a very deep sense, learning theorists take these philosophical questions — or at least aspects of them — give them fleshy mathematical bodies, and then answer them with theorems and proofs. These fleshy bodies might have imperfections or they might only address one small part of a big question, but the more we think about them the closer we get to robust answers and, as a reader of this blog might find relevant, useful applications. But the glamorous big-picture stuff is an important part of the allure of learning theory.
@@ -276,7 +276,7 @@ read more:
 
 #### General Process for Machine Learning Projects: 
 
-![alt text](images/process.png "Logo Title Text 1")
+![alt text](ml_images/process.png "Logo Title Text 1")
 
 
 #### Feature Engineering: 
@@ -340,7 +340,7 @@ Implementing Machine Learning Concepts from scratch:
 ### ML in Production
 
 
-![alt text](images/ml_idea_maze.png "Logo Title Text 1")
+![alt text](ml_images/ml_idea_maze.png "Logo Title Text 1")
 
 
 > “MVP with 80–90% accuracy.” The old saying in the machine learning community is that “machine learning is really good at partially solving just about any problem.” For most problems, it’s relatively easy to build a model that is accurate 80–90% of the time. After that, the returns on time, money, brainpower, data etc. rapidly diminish. As a rule of thumb, you’ll spend a few months getting to 80% and something between a few years and eternity getting the last 20%. (Incidentally, this is why when you see partial demos like Watson and self-driving cars, the demo itself doesn’t tell you much — what you need to see is how they handle the 10–20% of “edge cases” — the dog jumping out in front of the car in unusual lighting conditions, etc).
@@ -389,7 +389,7 @@ Useful guides:
 
 -----
 
-Quotes: 
+### Quotes: 
 
 
 > Humans are capable of far more than mapping immediate stimuli to immediate responses, as a deep network, or maybe an insect, would. We maintain complex, abstract models of our current situation, of ourselves, and of other people, and can use these models to anticipate different possible futures and perform long-term planning. We can merge together known concepts to represent something we’ve never experienced before—like picturing a horse wearing jeans, for instance, or imagining what we’d do if we won the lottery. This ability to handle hypotheticals, to expand our mental model space far beyond what we can experience directly—to perform abstraction and reasoning—is arguably the defining characteristic of human cognition. I call it extreme generalization: an ability to adapt to novel, never-before-experienced situations using little data or even no new data at all.
