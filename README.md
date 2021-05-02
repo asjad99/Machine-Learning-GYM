@@ -1,16 +1,3 @@
-
-> Humans are capable of far more than mapping immediate stimuli to immediate responses, as a deep network, or maybe an insect, would. We maintain complex, abstract models of our current situation, of ourselves, and of other people, and can use these models to anticipate different possible futures and perform long-term planning. We can merge together known concepts to represent something we’ve never experienced before—like picturing a horse wearing jeans, for instance, or imagining what we’d do if we won the lottery. This ability to handle hypotheticals, to expand our mental model space far beyond what we can experience directly—to perform abstraction and reasoning—is arguably the defining characteristic of human cognition. I call it extreme generalization: an ability to adapt to novel, never-before-experienced situations using little data or even no new data at all.
-
-> Over the past decades computers have broadly automated tasks that programmers could describe with clear rules and algorithms. 
-Modern machine learning techniques now allow us to do the same for tasks where describing the precise rules is much harder. - Jeff Bezos in his 2016 letter to Amazon shareholders:
-
-> Almost all of AI’s recent progress is through one type, in which some input data (A) is used to quickly generate some simple response (B). Being able to 
-input A and output B will transform many industries. The technical term for building this A→B software is supervised learning. These A→B systems have been
-improving rapidly, and the best ones today are built with a technology called deep learning or deep neural networks, which were loosely inspired by the brain. - Andrew NG: 
-
----------
-
-
 # About: 
 - This Project and notebooks are currently 'work in progress'. 
 
@@ -395,3 +382,24 @@ Useful guides:
   - [Deep Learning Nature Paper](https://www.nature.com/articles/nature14539)
   - [History of Deep Learning](https://www.asjadk.io/history-of-deep-learning/)
 
+
+-----
+
+Quotes: 
+
+
+> Humans are capable of far more than mapping immediate stimuli to immediate responses, as a deep network, or maybe an insect, would. We maintain complex, abstract models of our current situation, of ourselves, and of other people, and can use these models to anticipate different possible futures and perform long-term planning. We can merge together known concepts to represent something we’ve never experienced before—like picturing a horse wearing jeans, for instance, or imagining what we’d do if we won the lottery. This ability to handle hypotheticals, to expand our mental model space far beyond what we can experience directly—to perform abstraction and reasoning—is arguably the defining characteristic of human cognition. I call it extreme generalization: an ability to adapt to novel, never-before-experienced situations using little data or even no new data at all.
+
+> Over the past decades computers have broadly automated tasks that programmers could describe with clear rules and algorithms. 
+Modern machine learning techniques now allow us to do the same for tasks where describing the precise rules is much harder. - Jeff Bezos in his 2016 letter to Amazon shareholders:
+
+> Almost all of AI’s recent progress is through one type, in which some input data (A) is used to quickly generate some simple response (B). Being able to 
+input A and output B will transform many industries. The technical term for building this A→B software is supervised learning. These A→B systems have been
+improving rapidly, and the best ones today are built with a technology called deep learning or deep neural networks, which were loosely inspired by the brain. - Andrew NG: 
+
+> “But he also ascribes responsibility to two fundamental shifts, one on the supply side of computer research and programming, the other driven by demand, by what we expect computers to do. Norvig quotes MIT’s Hal Abelson who observed that computer science has changed from mathematical science to natural science, from calculating a correct answer to making observations, from traditional computer software to machine learning. 
+
+Similarly, demand has shifted from expecting computers to perform well-defined tasks such as adding numbers to the type of more amorphous tasks we really care about, says Norvig: “Reading something interesting, getting the right recommendation, sharing pictures and knowing what’s in the picture—these are all AI tasks. There is not a set of definitive answers, there’s uncertainty, we want to optimize or make the best recommendations.”[1]
+
+
+“In the 1970’s, the study of algorithms was added as an important component of theory. The emphasis was on making computers useful. Today, a fundamental change is taking place and the focus is more on applications. There are many reasons for this change. The merging of computing and communications has played an important role. The enhanced ability to observe, collect and store data in the natural sciences, in commerce, and in other fields calls for a change in our understanding of data and how to handle it in the modern setting. The emergence of the web and social networks as central aspects of daily life presents both opportunities and challenges for theory. While traditional areas of computer science remain highly important, increasingly re- searchers of the future will be involved with using computers to understand and extract usable information from massive data arising in applications, not just how to make computers useful on specific well-defined problems.
