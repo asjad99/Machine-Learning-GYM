@@ -47,11 +47,11 @@ data science.
 
 
 ### Brief History of AI: 
+
   - [Artificial Intelligence and Machine Learning] (https://www.youtube.com/watch?v=t4K6lney7Zw&list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V) 
   - [AI, Deep Learning, and Machine Learning: A Primer](https://a16z.com/2016/06/10/ai-deep-learning-machines/)
   - [For a programmers intro Welch Labs also has some great series on machine learning](https://youtu.be/i8D90DkCLhI​)
   - [Peter Domingos ted talk](https://youtu.be/qIZ5PXLVZfo)
-  -
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -70,6 +70,7 @@ Note: automate as much as possible so you can easily get fresh data.
    4. Ensure sensitive Information is deleted or protected (e.g anonymized)
 
 ----------------------------------------------------------------------------------------------------------------
+
 ### Data Wrangling Tools and Libraries 
 
 Data wrangling is about taking a messy or unrefined source of data and turning it into something useful. 
@@ -85,8 +86,6 @@ Data engineers wrangle data into a state that can then have queries run against 
 
 > Data Formats should be easy for computers to parse, people to read and widely used by systems in production. 
 The computations we perform must be reproducible and tweakable. Data Pipelines need to be documented. 
-
-
 
 #### Learning the tools 
 
@@ -163,21 +162,13 @@ art!
 **EDA:** 
 
 1. Grab a copy of the data 
-
 2. Document the EDA in a Jupyter notebook
-
 3. Study Each Attribute and its characteristics (Name, Type, % of missing values, noisy, usefulness, type of distribution)
-
 4. For Supervised Machine Learning, identify the target attribute 
-
 5. Visualize the data
-
 6. Study the correlations between attributes 
-
 7. Study how you would solve the problem manually
-
 8. Identify the promising transformations you may want to apply
-
 9. make plans to collect more of different data (if needed and if possible)
 
 
@@ -282,7 +273,6 @@ read more:
 #### Feature Engineering: 
 
 Data Prep-Processing for Machine learning 
-
 Note: Data Cleaning and EDA was covered earlier, the next step is pre-processing 
 
 
@@ -357,9 +347,7 @@ Implementing Machine Learning Concepts from scratch:
 - [Challenges in Deploying Machine Learning: a Survey of Case Studies](https://arxiv.org/abs/2011.09926)
 - [Challenges in Production](https://blog.acolyer.org/2019/10/07/150-successful-machine-learning-models/)
 
-
 #### ML Applications: 
-
 - [ML Applications Map](http://www.shivonzilis.com/)
 - [ML Data Products]
 
@@ -407,3 +395,5 @@ Similarly, demand has shifted from expecting computers to perform well-defined t
 
 
 “In the 1970’s, the study of algorithms was added as an important component of theory. The emphasis was on making computers useful. Today, a fundamental change is taking place and the focus is more on applications. There are many reasons for this change. The merging of computing and communications has played an important role. The enhanced ability to observe, collect and store data in the natural sciences, in commerce, and in other fields calls for a change in our understanding of data and how to handle it in the modern setting. The emergence of the web and social networks as central aspects of daily life presents both opportunities and challenges for theory. While traditional areas of computer science remain highly important, increasingly re- searchers of the future will be involved with using computers to understand and extract usable information from massive data arising in applications, not just how to make computers useful on specific well-defined problems.
+
+“Overall, machine learning systems can be thought of as a machine learning core — usually an advanced algorithm which requires a few chapters from Ian’s book to understand — surrounded by a huge amount of software engineering. The engineering can be shuffling around data, providing wrappers around inputs and outputs, or scheduling distributed code, all of which interface with the core as a black box. A machine learning advance happens when engineering effort plus research effort exceeds some threshold. Each incremental bit of engineering effort (such as decreasing Universe latencies) makes problems incrementally easier for our models, and has a chance to push the research over the finish line.” - source: https://blog.gregbrockman.com/define-cto-openai
