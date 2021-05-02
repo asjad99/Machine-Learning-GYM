@@ -1,4 +1,8 @@
 # About: 
+
+- Machine learning organizations automate tasks to reduce costs or scale products. The output is the automation itself
+achieved by collecting data, training models, and deploying them.
+
 - This Project and notebooks are currently 'work in progress'. 
 
 - It's inspired by [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch), peter norvig's [pytudes project](https://github.com/norvig/pytudes#pytudes-index-of-jupyter-ipython-notebooks),
