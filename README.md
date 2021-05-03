@@ -8,7 +8,7 @@ achieved by collecting data, training models, and deploying them.
 - It's inspired by [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch), peter norvig's [pytudes project](https://github.com/norvig/pytudes#pytudes-index-of-jupyter-ipython-notebooks),
 multiple Project's by folks like: [Made with ML](https://github.com/GokuMohandas/MadeWithML), [ML for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers), [Chris_albon](https://chrisalbon.com/) and many others. 
 
-- Roadmap: Based on It provides an opportunity to document some of my own learnings and acts as a [road map](https://github.com/asjad99/machine-learning-mindmap) for self-taught learners out there to learn data science for free 
+- Roadmap: It provides an opportunity to document some of my own learnings and acts as a [road map](https://github.com/asjad99/machine-learning-mindmap) for self-taught learners out there to learn data science for free. 
 
 - [Computational notebooks](https://www.nature.com/articles/d41586-018-07196-1): Computational notebooks are essentially laboratory notebooks for scientific computing. We use Notebooks for Practice(as they are best suited for scientific computing). This is closely related to litrate programming paradigm(as conceived by Don Knuth) 
 
@@ -23,14 +23,14 @@ multiple Project's by folks like: [Made with ML](https://github.com/GokuMohandas
 
 ## Topics: 
 - [introduction] 
+- [ML Basic Theory:]
 - [Data Acquizition]()
 - [Data Wrangling Tools and Libraries]()
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 - [Data Cleaning](#Data-Cleaning)
-- [### ML Theory:]
-- [ML Labs] ()
-- [ML In production] ()
-- [ML and NLP] ()
+- [ML Labs]()
+- [ML In production]()
+- [ML and NLP]()
 
 #### Machine Learning Introduction
 
@@ -48,9 +48,9 @@ data science.
 
 ### Brief History of AI: 
 
-  - [Artificial Intelligence and Machine Learning] (https://www.youtube.com/watch?v=t4K6lney7Zw&list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V) 
+  - [Artificial Intelligence and Machine Learning](https://www.youtube.com/watch?v=t4K6lney7Zw&list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V) 
   - [AI, Deep Learning, and Machine Learning: A Primer](https://a16z.com/2016/06/10/ai-deep-learning-machines/)
-  - [For a programmers intro Welch Labs also has some great series on machine learning](https://youtu.be/i8D90DkCLhI​)
+  - [For a programmers intro Welch Labs also has some great series on machine learning](https://youtu.be/i8D90DkCLhI)
   - [Peter Domingos ted talk](https://youtu.be/qIZ5PXLVZfo)
 
 ----------------------------------------------------------------------------------------------------------------
@@ -64,10 +64,10 @@ Note: automate as much as possible so you can easily get fresh data.
 3. Check how much space it take and engineering efforts required (initial assessment). 
 4. Understand Operational Constraints (e.g. what data is actually available at inference time)
 5. Legal/Ethics/Privacy
-   1. Get access authorizations and check legal obligations 
-   2. proactively identify ethical risks, including how your work could be mis-used by harassers, trolls, authoritarian governments, or for propaganda/disinformation campaigns (and plan how to reduce these risks)
-   3. identify [potential biases and potential negative feedback loops]
-   4. Ensure sensitive Information is deleted or protected (e.g anonymized)
+6. Get access authorizations and check legal obligations 
+7. proactively identify ethical risks, including how your work could be mis-used by harassers, trolls, authoritarian governments, or for propaganda/disinformation campaigns (and plan how to reduce these risks)
+8. identify [potential biases and potential negative feedback loops]
+9. Ensure sensitive Information is deleted or protected (e.g anonymized)
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -98,7 +98,11 @@ The computations we perform must be reproducible and tweakable. Data Pipelines n
 | Pandas Basics            | Learn the basics of pandas        |[Notebook](https://github.com/asjad99/datascience-GYM/blob/master/Data_Munging/Pandas.ipynb)        |      |
 
 
-see our (data Engineering course)[https://github.com/asjad99/data-engineering-ml-ops/edit/main/README.md] for more details:
+Learn More: 
+ 
+  - see our (data Engineering course)[https://github.com/asjad99/data-engineering-ml-ops/edit/main/README.md] to learn more 
+  - [just-pandas-things](https://github.com/chiphuyen/just-pandas-things)
+
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -110,7 +114,8 @@ see our (data Engineering course)[https://github.com/asjad99/data-engineering-ml
 - Hitch Hiker's Guide to python
 - python env https://jacobian.org/2018/feb/21/python-environment-2018/
 - Cheatsheet
-- Mit Hacker tools
+- MIT Hacker tools
+- [Python is Cool] https://github.com/chiphuyen/python-is-cool
 - [Data Algorithms](https://github.com/asjad99/modern_algorithms_toolkit)   
 
 -------------------------------------------------------------------------------------------------------------------
@@ -129,12 +134,12 @@ EDA always precedes formal (confirmatory) data analysis.
  
 EDA is useful for:
 
-- detection of mistakes
-- checking of assumptions
-- determining relationships among the explanatory variables
-- assessing the direction and rough size of relationships between explanatory
+- Detection of mistakes
+- Checking of assumptions
+- Determining relationships among the explanatory variables
+- Assessing the direction and rough size of relationships between explanatory
 and outcome variables, 
-- preliminary selection of appropriate models of the relationship between an
+- Preliminary selection of appropriate models of the relationship between an
 outcome variable and one or more explanatory variables.
 
 ##### EDA Methods: 
@@ -261,8 +266,6 @@ read more:
 
 
 -----------------------------------------------------------
-
-
 ### ML Labs: 
 
 #### General Process for Machine Learning Projects: 
