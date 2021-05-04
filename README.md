@@ -223,6 +223,7 @@ The computations we perform must be reproducible and tweakable.
 | Data Cleaning       | Learn data cleaning with synthetic data | [Notebook](https://deepnote.com/project/8c259dff-61ed-46cb-aa94-fdda7d3fdc8e#%2Fdatascience-GYM%2FData_Munging%2F%5BPandas%5Ddata_cleaning.ipynb)|
 
 
+
 ### useful guides: 
 - [Tidy data](http://vita.had.co.nz/papers/tidy-data.pdf) 
 - [Reproducability in Data Science](https://maxmasnick.com/media/slides/data-analysis-reproducibility/data-analysis-reproducibility.pdf)
@@ -326,6 +327,8 @@ Implementing Machine Learning Concepts from scratch:
 |  Hybrid-CI-System              | [Code](https://github.com/asjad99/Hybrid-CI-System) |
 | Traveling Salesmen and gentic algorithms |  [Code](https://github.com/asjad99/Genetic-Algorithms) |  
 | Neural Network                 |  [Code](https://github.com/asjad99/MLP) -A multi-layer Neural Network to solve the two spiral problem|
+
+https://github.com/eriklindernoren/NapkinML
 
 -----------------------------------------------------------
 
