@@ -15,6 +15,7 @@ multiple Project's by folks like: [Made with ML](https://github.com/GokuMohandas
 - This is a long list. see [this great article](https://towardsdatascience.com/how-to-become-a-data-scientist-2a02ed565336) on how to approach it depending on the [Career paths you decide to take](https://workera.ai/resource_downloads/ai_career_pathways/)
 
 
+
 ----------------------------------------------------------------------------------------------------------------
 
 
@@ -31,6 +32,12 @@ multiple Project's by folks like: [Made with ML](https://github.com/GokuMohandas
 - [ML Labs]()
 - [ML In production]()
 - [ML and NLP]()
+
+
+Learning path recommended by Daniel Bourke: 
+<img width="1284" alt="Screen Shot 2021-05-09 at 1 21 53 pm" src="https://user-images.githubusercontent.com/3470924/117559557-b0705900-b0c9-11eb-9798-0b6417f84a81.png">
+
+
 
 #### Machine Learning Introduction
 
