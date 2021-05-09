@@ -388,6 +388,13 @@ Useful guides:
   - [History of Deep Learning](https://www.asjadk.io/history-of-deep-learning/)
 
 
+
+
+### Useful datasets 
+
+https://www.kaggle.com/asjad99 
+https://github.com/beamandrew/medical-data 
+
 -----
 
 ### Quotes: 
