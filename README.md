@@ -322,6 +322,7 @@ The Johnson-Lindenstrauss Transform
 Singular Value Decomposition (motivation, algorithms)
 Support Vector Machines (inner products, primal problem, dual problem)
 
+https://github.com/eriklindernoren/ML-From-Scratch
 
 ### Bare-Bones
 
