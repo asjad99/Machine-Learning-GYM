@@ -230,7 +230,6 @@ The computations we perform must be reproducible and tweakable.
 | Data Cleaning       | Learn data cleaning with synthetic data | [Notebook](https://deepnote.com/project/8c259dff-61ed-46cb-aa94-fdda7d3fdc8e#%2Fdatascience-GYM%2FData_Munging%2F%5BPandas%5Ddata_cleaning.ipynb)|
 
 
-
 ### useful guides: 
 - [Tidy data](http://vita.had.co.nz/papers/tidy-data.pdf) 
 - [Reproducability in Data Science](https://maxmasnick.com/media/slides/data-analysis-reproducibility/data-analysis-reproducibility.pdf)
@@ -242,29 +241,47 @@ The computations we perform must be reproducible and tweakable.
 By: Michael Walker
 
 ----------------------------------------------------------------------------------------------------------------
+
 ### ML Theory: 
+
+
+##### Introduction
 
 The ultimate goal of Machine learning is to be able to generatize to new unseen data. i.e predicting
 behavior under new conditions. we study Problems like: Regression, Clustering, Classication, Recommendation. 
 
-
-Machine Learning folks divide themselves in different tribes (popularized by peter domingos - Author of master algorithm)
-
-![alt text](ml_images/ml_tribes.png "Logo Title Text 1")
-
-![alt text](ml_images/machine_learning_1.jpg "Logo Title Text 1")
-
-
 > In tackling machine learning (and computer science in general) we face some deep philosophical questions. Questions like, “What does it mean to learn?” and, “Can a computer learn?” and, “How do you define simplicity?” and, “Why does Occam’s Razor work? (Why do simple hypotheses do well at modelling reality?)” In a very deep sense, learning theorists take these philosophical questions — or at least aspects of them — give them fleshy mathematical bodies, and then answer them with theorems and proofs. These fleshy bodies might have imperfections or they might only address one small part of a big question, but the more we think about them the closer we get to robust answers and, as a reader of this blog might find relevant, useful applications. But the glamorous big-picture stuff is an important part of the allure of learning theory.
 
 
-Basics: 
+
+
+##### Regression and Classification 
+
+
+
+##### Linear and Logistic Regression 
+
+
+
+
+#### Advanced: 
+- Decision Trees and Political Party Classification
+- Weak Learning, Boosting, and the AdaBoost Algorithm
+- Support Vector Machines (inner products, primal problem, dual problem)
+
+
+#### Dimensionality Reduction
+
+
+
+#### Clustering 
+
+
+#### Resources: 
+
 - [MIT's Introduction to Machine Learning] ([https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/course/])
 - [DeepLearning book chapter 4]()
 - [Andrew NG Course in ML]()
-
-read more: 
-
 - [PAC by j2kun](https://jeremykun.com/2014/01/02/probably-approximately-correct-a-formal-theory-of-learning/)
 - [Understanding Generalizations in Machine Learning](https://www.asjadk.io/untitled-3/)
 - [Why is ML hard](http://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html)
@@ -274,7 +291,7 @@ read more:
 
 
 -----------------------------------------------------------
-### ML Labs: 
+### ML In Real World: 
 
 #### General Process for Machine Learning Projects: 
 
@@ -295,34 +312,11 @@ Note: Data Cleaning and EDA was covered earlier, the next step is pre-processing
 > for many data science problems, simple machine learning algorithms suffice to attain sufficiently good performance (by whatever metric you want to define performance, but I simply mean that they effectively solve the problem). The numbers here are all just examples (specifically the solvable/unsolvable ratio), but the point it gets at is important. There are many data science problems one would like to be able to solve, but in a large number of these cases, there is simply no way to solve the problem given the available data. For the set of problems that are solvable with some kind of machine learning, the vast majority will be solvable at least to a level of sufficient performance, using relatively simple models. The 5% of remaining problems is an important one, because they often consist of the most “interesting” problems from a research standpoint (think problems like speech recognition, natural language understanding, computer vision), but they are often not indicative of the types of problems one encounters in “most” data science applications.
 
 
+#### Deep Learning and NLP 
 
-| Algorithm           | Notebooks | Description |
-|---------------------|-----------|-------------|
-| Linear Regression   |           |             |
-| Logistic Regression |           |             |
-| SVMs                |           |             |
-| XGboost             |           |             |
-| Clustering          |           |             |
+ [Deep Learning and NLP](https://github.com/asjad99/NLP_GYM)
 
-
-Introduction
-K-Nearest-Neighbors and Handwritten Digit Classification
-The Perceptron, and All the Things it Can’t Perceive
-Decision Trees and Political Party Classification
-Neural Networks and the Backpropagation Algorithm
-K-Means Clustering and Birth Rates
-Linear Regression
-Eigenfaces, for Facial Recognition (via Principal Component Analysis)
-Bandit Learning: the UCB1 Algorithm
-Bandit Learning: the EXP3 Algorithm
-Bandits and Stocks
-Weak Learning, Boosting, and the AdaBoost Algorithm
-Fairness in machine learning (introduction, statistical parity)
-The Johnson-Lindenstrauss Transform
-Singular Value Decomposition (motivation, algorithms)
-Support Vector Machines (inner products, primal problem, dual problem)
-
-https://github.com/eriklindernoren/ML-From-Scratch
+-----------------------------------------------------------
 
 ### Bare-Bones
 
@@ -337,6 +331,8 @@ Implementing Machine Learning Concepts from scratch:
 | Neural Network                 |  [Code](https://github.com/asjad99/MLP) -A multi-layer Neural Network to solve the two spiral problem|
 
 https://github.com/eriklindernoren/NapkinML
+https://github.com/eriklindernoren/ML-From-Scratch
+
 
 -----------------------------------------------------------
 
@@ -351,8 +347,6 @@ https://github.com/eriklindernoren/NapkinML
 
 - https://cdixon.org/2015/02/01/the-ai-startup-idea-maze
 
-
-
 #### key resources: 
 
 - [Debugging ML Systems by Andrew Ng](https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2018/09/Ng-MLY01-13.pdf)
@@ -365,36 +359,6 @@ https://github.com/eriklindernoren/NapkinML
 - [ML Applications Map](http://www.shivonzilis.com/)
 - [ML Data Products]
 
-----------------------------------------------------------------------------------------------------------------
-
-## Deep Learning and Natural Language Processing
-
-- Deep Learning and Brain: 
-
-
-Topics: 
-
-1. Know about standard architectures (MLP, vanilla RNN, LSTM (also see this blog), GRU, conv layers, resnets, attention mechanisms), 
-2. common regularizers (weight decay, dropout)
-3. Normalization (batch norm, layer norm, weight norm)
-4. Optimizers (SGD, momentum SGD, Adam, others). 
-5. the reparameterization trick 
-6. Practice and Trends: https://www.youtube.com/watch?v=YJnddoa8sHk
-
-
-Useful guides: 
-  - [Deep Learning and neural networks](http://neuralnetworksanddeeplearning.com/)
-  - [How neural networks work](https://omar-florez.github.io/scratch_mlp/)
-  - [Deep Learning Nature Paper](https://www.nature.com/articles/nature14539)
-  - [History of Deep Learning](https://www.asjadk.io/history-of-deep-learning/)
-
-
-
-
-### Useful datasets 
-
-https://www.kaggle.com/asjad99 
-https://github.com/beamandrew/medical-data 
 
 -----
 
