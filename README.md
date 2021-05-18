@@ -340,22 +340,6 @@ Note: Data Cleaning and EDA was covered earlier, the next step is pre-processing
 
 ML System Design and DevOps
 
------------------------------------------------------------
-
-### Bare-Bones
-
-Implementing Machine Learning Concepts from scratch:
-
-
-| Topic                          | Code | 
----------------------------------|------|
-| Generalization and Regularization|     |
-|  Hybrid-CI-System              | [Code](https://github.com/asjad99/Hybrid-CI-System) |
-| Traveling Salesmen and gentic algorithms |  [Code](https://github.com/asjad99/Genetic-Algorithms) |  
-| Neural Network                 |  [Code](https://github.com/asjad99/MLP) -A multi-layer Neural Network to solve the two spiral problem|
-
-https://github.com/eriklindernoren/NapkinML
-https://github.com/eriklindernoren/ML-From-Scratch
 
 
 -----------------------------------------------------------
