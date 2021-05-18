@@ -270,6 +270,8 @@ read more: [Brief History](https://github.com/asjad99/Machine-Learning-GYM/blob/
 - Support Vector Machines (inner products, primal problem, dual problem)
 
 
+
+
 #### Dimensionality Reduction
 
 
@@ -291,11 +293,11 @@ read more: [Brief History](https://github.com/asjad99/Machine-Learning-GYM/blob/
 
 
 -----------------------------------------------------------
-### ML In Real World: 
+### ML In Production: 
 
 #### General Process for Machine Learning Projects: 
 
-![alt text](ml_images/process.png "Logo Title Text 1")
+https://github.com/asjad99/Machine-Learning-GYM/blob/main/ML_Notes/0.%20ML_Process.md 
 
 
 #### Feature Engineering: 
@@ -304,17 +306,33 @@ Data Prep-Processing for Machine learning
 Note: Data Cleaning and EDA was covered earlier, the next step is pre-processing 
 
 
-#### Algorithmic Modeling 
+#### Wisdom On Picking the evaluation Function
 
 
-- According to J. Kolter at CMU:  
 
-> for many data science problems, simple machine learning algorithms suffice to attain sufficiently good performance (by whatever metric you want to define performance, but I simply mean that they effectively solve the problem). The numbers here are all just examples (specifically the solvable/unsolvable ratio), but the point it gets at is important. There are many data science problems one would like to be able to solve, but in a large number of these cases, there is simply no way to solve the problem given the available data. For the set of problems that are solvable with some kind of machine learning, the vast majority will be solvable at least to a level of sufficient performance, using relatively simple models. The 5% of remaining problems is an important one, because they often consist of the most “interesting” problems from a research standpoint (think problems like speech recognition, natural language understanding, computer vision), but they are often not indicative of the types of problems one encounters in “most” data science applications.
+
 
 
 #### Deep Learning and NLP 
 
  [Deep Learning and NLP](https://github.com/asjad99/NLP_GYM)
+
+
+
+#### key resources: 
+
+- [Debugging ML Systems by Andrew Ng](https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2018/09/Ng-MLY01-13.pdf)
+- Book: Building Machine Learning Powered Applications going from idea to Product
+- Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps
+- [Challenges in Deploying Machine Learning: a Survey of Case Studies](https://arxiv.org/abs/2011.09926)
+- [Challenges in Production](https://blog.acolyer.org/2019/10/07/150-successful-machine-learning-models/)
+
+#### ML Applications: 
+- [ML Applications Map](http://www.shivonzilis.com/)
+- [ML Data Products]
+
+
+-----
 
 -----------------------------------------------------------
 
@@ -334,11 +352,16 @@ https://github.com/eriklindernoren/NapkinML
 https://github.com/eriklindernoren/ML-From-Scratch
 
 
------------------------------------------------------------
 
 
-### ML in Production
 
+### Quotes: 
+
+
+
+- According to J. Kolter at CMU:  
+
+> for many data science problems, simple machine learning algorithms suffice to attain sufficiently good performance (by whatever metric you want to define performance, but I simply mean that they effectively solve the problem). The numbers here are all just examples (specifically the solvable/unsolvable ratio), but the point it gets at is important. There are many data science problems one would like to be able to solve, but in a large number of these cases, there is simply no way to solve the problem given the available data. For the set of problems that are solvable with some kind of machine learning, the vast majority will be solvable at least to a level of sufficient performance, using relatively simple models. The 5% of remaining problems is an important one, because they often consist of the most “interesting” problems from a research standpoint (think problems like speech recognition, natural language understanding, computer vision), but they are often not indicative of the types of problems one encounters in “most” data science applications.
 
 ![alt text](ml_images/ml_idea_maze.png "Logo Title Text 1")
 
@@ -346,24 +369,6 @@ https://github.com/eriklindernoren/ML-From-Scratch
 > “MVP with 80–90% accuracy.” The old saying in the machine learning community is that “machine learning is really good at partially solving just about any problem.” For most problems, it’s relatively easy to build a model that is accurate 80–90% of the time. After that, the returns on time, money, brainpower, data etc. rapidly diminish. As a rule of thumb, you’ll spend a few months getting to 80% and something between a few years and eternity getting the last 20%. (Incidentally, this is why when you see partial demos like Watson and self-driving cars, the demo itself doesn’t tell you much — what you need to see is how they handle the 10–20% of “edge cases” — the dog jumping out in front of the car in unusual lighting conditions, etc).
 
 - https://cdixon.org/2015/02/01/the-ai-startup-idea-maze
-
-#### key resources: 
-
-- [Debugging ML Systems by Andrew Ng](https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2018/09/Ng-MLY01-13.pdf)
-- Book: Building Machine Learning Powered Applications going from idea to Product
-- Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps
-- [Challenges in Deploying Machine Learning: a Survey of Case Studies](https://arxiv.org/abs/2011.09926)
-- [Challenges in Production](https://blog.acolyer.org/2019/10/07/150-successful-machine-learning-models/)
-
-#### ML Applications: 
-- [ML Applications Map](http://www.shivonzilis.com/)
-- [ML Data Products]
-
-
------
-
-### Quotes: 
-
 
 > Humans are capable of far more than mapping immediate stimuli to immediate responses, as a deep network, or maybe an insect, would. We maintain complex, abstract models of our current situation, of ourselves, and of other people, and can use these models to anticipate different possible futures and perform long-term planning. We can merge together known concepts to represent something we’ve never experienced before—like picturing a horse wearing jeans, for instance, or imagining what we’d do if we won the lottery. This ability to handle hypotheticals, to expand our mental model space far beyond what we can experience directly—to perform abstraction and reasoning—is arguably the defining characteristic of human cognition. I call it extreme generalization: an ability to adapt to novel, never-before-experienced situations using little data or even no new data at all.
 
