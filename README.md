@@ -252,7 +252,7 @@ behavior under new conditions. we study Problems like: Regression, Clustering, C
 
 > In tackling machine learning (and computer science in general) we face some deep philosophical questions. Questions like, “What does it mean to learn?” and, “Can a computer learn?” and, “How do you define simplicity?” and, “Why does Occam’s Razor work? (Why do simple hypotheses do well at modelling reality?)” In a very deep sense, learning theorists take these philosophical questions — or at least aspects of them — give them fleshy mathematical bodies, and then answer them with theorems and proofs. These fleshy bodies might have imperfections or they might only address one small part of a big question, but the more we think about them the closer we get to robust answers and, as a reader of this blog might find relevant, useful applications. But the glamorous big-picture stuff is an important part of the allure of learning theory.
 
-
+read more: [Brief History](https://github.com/asjad99/Machine-Learning-GYM/blob/main/ML_Notes/1.%20Introduction_History.md), [Key Concepts](https://github.com/asjad99/Machine-Learning-GYM/blob/main/ML_Notes/2.%20Introduction_basic_jargon.md), [Generalization](https://github.com/asjad99/Machine-Learning-GYM/blob/main/ML_Notes/3.%20Generalization_central_problem.md) 
 
 
 ##### Regression and Classification 
