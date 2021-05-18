@@ -291,7 +291,7 @@ read more: [Brief History](https://github.com/asjad99/Machine-Learning-GYM/blob/
 - [Feature Engineering and dimensionality reduction](https://learning.oreilly.com/library/view/feature-engineering-for/9781491953235/)
 - [Machine Learning Mind Map](https://github.com/dformoso/machine-learning-mindmap) 
 
-
+ 
 -----------------------------------------------------------
 ### ML In Production: 
 
@@ -309,13 +309,10 @@ Note: Data Cleaning and EDA was covered earlier, the next step is pre-processing
 #### Wisdom On Picking the evaluation Function
 
 
+#### Debugging ML Systems 
 
 
 
-
-#### Deep Learning and NLP 
-
- [Deep Learning and NLP](https://github.com/asjad99/NLP_GYM)
 
 
 
@@ -331,8 +328,17 @@ Note: Data Cleaning and EDA was covered earlier, the next step is pre-processing
 - [ML Applications Map](http://www.shivonzilis.com/)
 - [ML Data Products]
 
+-----------------------------------------------------------
 
------
+
+### Deep Learning and NLP 
+
+ [Deep Learning and NLP](https://github.com/asjad99/NLP_GYM)
+ 
+ 
+### ML System Design and DevOps
+
+ML System Design and DevOps
 
 -----------------------------------------------------------
 
@@ -352,7 +358,7 @@ https://github.com/eriklindernoren/NapkinML
 https://github.com/eriklindernoren/ML-From-Scratch
 
 
-
+-----------------------------------------------------------
 
 
 ### Quotes: 
