@@ -23,15 +23,15 @@ multiple Project's by folks like: [Made with ML](https://github.com/GokuMohandas
 
 
 ## Topics: 
-- [introduction] 
+- [introduction](#Introduction)
 - [ML Basic Theory:]
 - [Data Acquizition]()
 - [Data Wrangling Tools and Libraries]()
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 - [Data Cleaning](#Data-Cleaning)
-- [ML Labs]()
+- [Modeling]()
 - [ML In production]()
-- [ML and NLP]()
+- [Application Areas]()
 
 
 Learning path recommended by Daniel Bourke: 
@@ -39,7 +39,7 @@ Learning path recommended by Daniel Bourke:
 
 
 
-#### Machine Learning Introduction
+#### Introduction
 
 - Machine Learning is the modern probabilistic approach to artificial intelligence. It studies algorithms that learn to predict from (usually independent and identically distributed) data.
 - It Utilizes past observation data to predict future observations. e.g Can we predict which products
@@ -250,8 +250,13 @@ behavior under new conditions. we study Problems like: Regression, Clustering, C
 
 read more: [Brief History](https://github.com/asjad99/Machine-Learning-GYM/blob/main/ML_Notes/1.%20Introduction_History.md), [Key Concepts](https://github.com/asjad99/Machine-Learning-GYM/blob/main/ML_Notes/2.%20Introduction_basic_jargon.md), [Generalization](https://github.com/asjad99/Machine-Learning-GYM/blob/main/ML_Notes/3.%20Generalization_central_problem.md) 
 
+#### Feature Engineering: 
 
-### Supervised Learning 
+Data Prep-Processing for Machine learning 
+Note: Data Cleaning and EDA was covered earlier, the next step is pre-processing 
+
+
+### UnSupervised Learning 
 
 
 #### Resources: 
@@ -270,18 +275,6 @@ read more: [Brief History](https://github.com/asjad99/Machine-Learning-GYM/blob/
 -----------------------------------------------------------
 ### ML In Production: 
 
-#### General Process for Machine Learning Projects: 
-
-https://github.com/asjad99/Machine-Learning-GYM/blob/main/ML_Notes/0.%20ML_Process.md 
-
-
-#### Feature Engineering: 
-
-Data Prep-Processing for Machine learning 
-Note: Data Cleaning and EDA was covered earlier, the next step is pre-processing 
-
-
-
 
 #### key resources: 
 
@@ -291,23 +284,23 @@ Note: Data Cleaning and EDA was covered earlier, the next step is pre-processing
 - [Challenges in Deploying Machine Learning: a Survey of Case Studies](https://arxiv.org/abs/2011.09926)
 - [Challenges in Production](https://blog.acolyer.org/2019/10/07/150-successful-machine-learning-models/)
 
-#### ML Applications: 
-- [ML Applications Map](http://www.shivonzilis.com/)
-- [ML Data Products]
+
 
 -----------------------------------------------------------
 
+## ML Application Areas
 
-### Deep Learning and NLP 
-
- [Deep Learning and NLP](https://github.com/asjad99/NLP_GYM)
+### Natural Language Processing 
+[Deep Learning and NLP](https://github.com/asjad99/NLP_GYM)
  
- 
-### ML System Design and DevOps
 
-ML System Design and DevOps
+### Process Analytics and Predictive Process Monitoring 
 
 
+### IOT Analytics  
+
+
+- [General Comprehensive Applications Map](http://www.shivonzilis.com/)
 
 -----------------------------------------------------------
 
