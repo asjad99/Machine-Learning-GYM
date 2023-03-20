@@ -1,3 +1,8 @@
+### About
+
+This repo documents notes on theoretical foundations, optimization algorithms, and a variety of projects (vision, speech, healthcare, materials science, NLP, biology, among others). 
+
+
 ### Notebooks 
 https://github.com/asjad99/Machine-Learning-GYM/blob/main/Notebooks_Core/index.md
 
