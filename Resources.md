@@ -1,8 +1,7 @@
 
+### Articles: 
 
 - [A bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
-
-### Case studies
 
 To learn to design machine learning systems, it's helpful to read case studies to see how actual teams deal with different deployment requirements and constraints. Many companies, such as Airbnb, Lyft, Uber, Netflix, run excellent tech blogs where they share their experience using machine learning to improve their products and/or processes. If you're interested in a company, you should visit their tech blogs to see what they've been working on -- it might come up during your interviews! Below are some of these great case studies.
 
@@ -59,26 +58,24 @@ To learn to design machine learning systems, it's helpful to read case studies t
 12. [Making Netflix Machine Learning Algorithms Reliable](https://bit.ly/2ONtXmp) (Justin Basilico, Research/Engineering at Netflix, 2017) 
 
 	Netflix develops a variety of machine learning algorithms (including regression, factorization, topic modeling, ensemble learning, neural networks, bandits, etc) to a variety of problems (personalized ranking, trending now, video similarities, search, top-n ranking, etc), to help members find content to watch and enjoy.
+	
+	
+
+### Inspiring Projects:
+
+1. https://github.com/sintel-dev 
+2. https://dai.lids.mit.edu/projects/, https://dai-lab.github.io/opensource/
+3. EDA: https://github.com/ydataai/ydata-profiling
 
 
 
 
 
-
-### Libraries/codereps
-
-- EDA: https://github.com/ydataai/ydata-profiling
 
 ### Books
 - Natural Language processign with transformers 
 - 𝐓𝐫𝐮𝐬𝐭𝐰𝐨𝐫𝐭𝐡𝐲 𝐎𝐧𝐥𝐢𝐧𝐞 𝐂𝐨𝐧𝐭𝐫𝐨𝐥𝐥𝐞𝐝 𝐄𝐱𝐩𝐞𝐫𝐢𝐦𝐞𝐧𝐭s
-- 𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥𝐬 𝐨𝐟 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠
+- 𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥𝐬 𝐨𝐟 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧g
 
-### Career 
-- The insight industrial Complex 
-
-#### Applications
-
-- AI for accelerate
 - Data driven science and engineering: http://databookuw.com/
 - http://databookuw.com/
