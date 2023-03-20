@@ -14,6 +14,6 @@ https://github.com/asjad99/Machine-Learning-GYM/tree/main/ML_Notes
 - [Cross-Silo Process Mining with Federated Learning](https://scholar.google.com.au/citations?view_op=view_citation&hl=en&user=3dLAqxwAAAAJ&citation_for_view=3dLAqxwAAAAJ:u5HHmVD_uO8C)
 - [Goal-Mining](https://github.com/asjad99/know-how-mining) - Mining goal refinement patterns: distilling know-how from data.
 
-### Readings
+### Resources
 
 https://github.com/asjad99/Machine-Learning-GYM/blob/main/readings.md
