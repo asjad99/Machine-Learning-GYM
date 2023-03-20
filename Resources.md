@@ -63,6 +63,8 @@ To learn to design machine learning systems, it's helpful to read case studies t
 
 ### Inspiring Projects:
 
+
+1. http://snap.stanford.edu/projects.html
 1. https://github.com/sintel-dev 
 2. https://dai.lids.mit.edu/projects/, https://dai-lab.github.io/opensource/
 3. EDA: https://github.com/ydataai/ydata-profiling
