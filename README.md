@@ -1,6 +1,10 @@
 ### About
 
-This repo documents notes on theoretical foundations, optimization algorithms, and a variety of projects (vision, speech, healthcare, materials science, NLP, biology, among others). 
+I find machine learning an interesting area to work due to its versatility, rapid advancements, data availability, interdisciplinary nature, pursuit of AGI, focus on explainability, and ethical implications. 
+
+These factors contribute to a dynamic and fast-paced field with the potential for transformative impact across numerous domains.
+
+This repo contains notes, notebooks on theoretical foundations, optimization algorithms, and a variety of projects (vision, speech, healthcare, materials science, NLP, biology, among others). 
 
 
 ### Notebooks 
