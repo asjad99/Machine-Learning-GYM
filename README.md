@@ -4,6 +4,8 @@
 This repo contains notes, notebooks on theoretical foundations, optimization algorithms, and a variety of projects (vision, speech, healthcare, materials science, NLP, biology, among others). I find machine learning an interesting area to work due to its versatility, rapid advancements, data availability and interdisciplinary nature. Applied machine learning, which is full of fascinating open problems like generalization, intelligent exploration vs exploitation, counter-factual evaluation, Meta-Learning and Sample Efficient Learning. These factors contribute to a dynamic and fast-paced field with the potential for transformative impact across numerous domains.
 
 
+https://madewithml.com
+
 
 ### Notebooks 
 https://github.com/asjad99/Machine-Learning-GYM/blob/main/Notebooks_Core/index.md
