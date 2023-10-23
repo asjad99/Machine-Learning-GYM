@@ -78,52 +78,7 @@ Note: automate as much as possible so you can easily get fresh data.
 
 ----------------------------------------------------------------------------------------------------------------
 
-### Data Wrangling Tools and Libraries 
 
-Data wrangling is about taking a messy or unrefined source of data and turning it into something useful. 
-You begin by seeking out raw data sources and determining their value: How good are they as data sets? 
-How relevant are they to your goal? Is there a better source? Once you’ve parsed and cleaned the data so that the data sets are usable, 
-you can utilize tools and methods (like Python scripts) to help you analyze them and present your findings in a report. 
-This allows you to take data no one would bother looking at and make it both clear and actionable.
-
-Clean and wrangle data into a usable state
-
-> Data engineers make sure the data the organization is using is clean, reliable, and prepped for whatever use cases may present themselves. 
-Data engineers wrangle data into a state that can then have queries run against it by data scientists.
-
-> Data Formats should be easy for computers to parse, people to read and widely used by systems in production. 
-The computations we perform must be reproducible and tweakable. Data Pipelines need to be documented. 
-
-#### Learning the tools 
-
-| Notebook                 | Description | Code |
-|--------------------------|-----------|------|
-| Command-line             | Learn various unix command line utlities and how they can be used to clean and compute basic statistics          | [blog_post](https://asjadkhan.ghost.io/ghost/#/site) |     
-| Web Data Collection      | Learn to collect data available on web (APIs or web scrapping)          | [Notebook](https://github.com/asjad99/datascience-GYM/tree/master/data_engineering)          |  
-| numpy_Basics     | Learn the basics of the library that underpins scientific computing          |[Notebook](/work/datascience-GYM/Data_Munging/[Numpy]basics.ipynb)        | 
-| numpy_linear_algebra     |           |Notebook        |     
-| Pandas Basics            | Learn the basics of pandas        |[Notebook](https://github.com/asjad99/datascience-GYM/blob/master/Data_Munging/Pandas.ipynb)        |      |
-
-
-Learn More: 
- 
-  - see our (data Engineering course)[https://github.com/asjad99/data-engineering-ml-ops/edit/main/README.md] to learn more 
-  - [just-pandas-things](https://github.com/chiphuyen/just-pandas-things)
-
-
--------------------------------------------------------------------------------------------------------------------
-
-
-## Guides on Python Programming
-
-- How to think like a CS in python
-- SCIP in python
-- Hitch Hiker's Guide to python
-- python env https://jacobian.org/2018/feb/21/python-environment-2018/
-- Cheatsheet
-- MIT Hacker tools
-- [Python is Cool] https://github.com/chiphuyen/python-is-cool
-- [Data Algorithms](https://github.com/asjad99/modern_algorithms_toolkit)   
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -301,6 +256,16 @@ Note: Data Cleaning and EDA was covered earlier, the next step is pre-processing
 
 
 - [General Comprehensive Applications Map](http://www.shivonzilis.com/)
+
+
+
+## ML Bare Bones: 
+
+- [GA_TSP](https://github.com/asjad99/Genetic-Algorithms) - traveling salesman problem (TSP) using Genetic-Algorithms in C++
+- [Hybrid-CI](https://github.com/asjad99/Hybrid-CI-System) - PCA dimensionality reduction using Genetic algorithms
+- [MLP](https://github.com/asjad99/MLP) - A barebones implementation of an MLP and Backprop algorithm in C++  
+
+
 
 -----------------------------------------------------------
 
