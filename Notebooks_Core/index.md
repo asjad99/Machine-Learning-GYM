@@ -33,12 +33,6 @@ multiple Project's by folks like: [Made with ML](https://github.com/GokuMohandas
 - [ML In production]()
 - [Application Areas]()
 
-
-Learning path recommended by Daniel Bourke: 
-<img width="1284" alt="Screen Shot 2021-05-09 at 1 21 53 pm" src="https://user-images.githubusercontent.com/3470924/117559557-b0705900-b0c9-11eb-9798-0b6417f84a81.png">
-
-
-
 #### Introduction
 
 - Machine Learning is the modern probabilistic approach to artificial intelligence. It studies algorithms that learn to predict from (usually independent and identically distributed) data.
@@ -60,7 +54,6 @@ data science.
   - [For a programmers intro Welch Labs also has some great series on machine learning](https://youtu.be/i8D90DkCLhI)
   - [Peter Domingos ted talk](https://youtu.be/qIZ5PXLVZfo)
 
-----------------------------------------------------------------------------------------------------------------
 
 ###  Data Acquizition 
 
@@ -76,11 +69,6 @@ Note: automate as much as possible so you can easily get fresh data.
 8. identify [potential biases and potential negative feedback loops]
 9. Ensure sensitive Information is deleted or protected (e.g anonymized)
 
-----------------------------------------------------------------------------------------------------------------
-
-
-
--------------------------------------------------------------------------------------------------------------------
 
 ## Exploratory Data Analysis  
 
@@ -165,9 +153,7 @@ art!
 | [Johns Hopkins COVID-19 Analysis](https://github.com/databricks/tech-talks/blob/master/samples/JHU%20COVID-19%20Analysis.html) | Exploratory Data Analysis of the Johns Hopkins CSSE COVID-19 dataset | [2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19) |
 | [NY Times COVID-19 Analysis](https://github.com/databricks/tech-talks/blob/master/samples/NYT%20COVID-19%20Analysis.html) | Exploratory Data Analysis of the NY Times COVID-19 dataset | [NY Times COVID-19 Datasets](https://github.com/nytimes/covid-19-data) |
 
-
-
-Useful Guides: 
+**Useful Guides:**
 
 - [Chapter 4, Experimental Design and Analysis by Howard J. Seltman](http://www.stat.cmu.edu/~hseltman/309/Book/Book.pdf)
 - [Section 1, Hands-On Exploratory Data Analysis with Python](https://www.packtpub.com/product/hands-on-exploratory-data-analysis-with-python/9781789537253)
@@ -184,7 +170,7 @@ Real-world data is rarely clean and homogeneous. It is often said that 80% of da
 Data Formats should be easy for computers to parse, people to read and widely used by systems in production. 
 The computations we perform must be reproducible and tweakable. 
 
-### Key Data Cleaning Steps: 
+**Key Data Cleaning Steps:** 
 
 * Fix or remove outliers 
 * Fill in missing values(e.g with zero, mean, median) or drop their rows  
