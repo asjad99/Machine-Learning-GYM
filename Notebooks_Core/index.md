@@ -153,6 +153,20 @@ art!
 | Univariate Non-Graphical Data Exploration    | Data Exploration using data ozone levels dataset          | [Notebook](https://deepnote.com/project/8c259dff-61ed-46cb-aa94-fdda7d3fdc8e#%2Fdatascience-GYM%2FData_Munging%2F%5BPandas%5DEDA_ozone.ipynb)    |
 | Graphical Data Exploration    | Data Exploration using visualization techniques        | [Notebook](https://deepnote.com/project/Data-Science-Journey-jCWd_2HtRsuqlP3afT_cjg/%2Fdatascience-GYM%2FData_Science%2F%5BEDA%5DUnivariate_mulitvariate_graphical.ipynb)    |
 
+
+### COVID datasets 
+
+| Notebooks | Description | Datasets Used |
+| --------- | ----------- | ------------- |
+| [Load JSON Datasets](https://github.com/databricks/tech-talks/blob/master/2020-03-19%20%7C%20Analyzing%20COVID-19%20-%20Can%20the%20Data%20Community%20Help/1.%20Load%20JSON%20Datasets.html) | Loading CORD-19 JSON Datasets | [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) |
+| [Analyzing CORD-19 Datasets](https://github.com/databricks/tech-talks/blob/master/2020-03-19%20%7C%20Analyzing%20COVID-19%20-%20Can%20the%20Data%20Community%20Help/2.%20Analyze%20CORD-19%20Datasets.html) | Exploratory Data Analysis of the CORD-19 dataset | [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) |
+| [NLP - Exploring CV19 Literature](https://github.com/databricks/tech-talks/blob/master/2020-03-19%20%7C%20Analyzing%20COVID-19%20-%20Can%20the%20Data%20Community%20Help/NLP%20-%20Exploring%20CV19%20Literature%20using%20Parquet.html) | Exploring CORD-19 Literature using NLP | [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) |
+| [South Korea COVID-19 Analysis](https://github.com/databricks/tech-talks/blob/master/2020-03-19%20%7C%20Analyzing%20COVID-19%20-%20Can%20the%20Data%20Community%20Help/SouthKorea-Covid19_Analysis.html) | Exploratory Data Analysis of the South Korea COVID-19 dataset | [Data Science for COVID-19 (DS4C) (South Korea)](https://www.kaggle.com/kimjihoo/coronavirusdataset)|
+| [Johns Hopkins COVID-19 Analysis](https://github.com/databricks/tech-talks/blob/master/samples/JHU%20COVID-19%20Analysis.html) | Exploratory Data Analysis of the Johns Hopkins CSSE COVID-19 dataset | [2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19) |
+| [NY Times COVID-19 Analysis](https://github.com/databricks/tech-talks/blob/master/samples/NYT%20COVID-19%20Analysis.html) | Exploratory Data Analysis of the NY Times COVID-19 dataset | [NY Times COVID-19 Datasets](https://github.com/nytimes/covid-19-data) |
+
+
+
 Useful Guides: 
 
 - [Chapter 4, Experimental Design and Analysis by Howard J. Seltman](http://www.stat.cmu.edu/~hseltman/309/Book/Book.pdf)
