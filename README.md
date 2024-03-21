@@ -179,6 +179,7 @@ By: Michael Walker
 | Techniques to avoid overfitting | | 
 | Sampling techniques | | 
 | Feature Engineering | | 
+| Debugging ML Systems | | 
 | Interpretability | | 
 | Technical Debt in ML Systems | | 
 | Process for Building end-to-end System | | 
@@ -186,7 +187,9 @@ By: Michael Walker
 
 https://github.com/asjad99/Machine-Learning-GYM/tree/main/ML_Notes 
 
+read more: [Brief History](https://github.com/asjad99/Machine-Learning-GYM/blob/main/ML_Notes/1.%20Introduction_History.md), [Key Concepts](https://github.com/asjad99/Machine-Learning-GYM/blob/main/ML_Notes/2.%20Introduction_basic_jargon.md), [Generalization](https://github.com/asjad99/Machine-Learning-GYM/blob/main/ML_Notes/3.%20Generalization_central_problem.md) 
 
+----------------------------------------------------------------------------------------------------------------
 
 **Notebooks**
 
@@ -199,6 +202,13 @@ https://github.com/asjad99/Machine-Learning-GYM/tree/main/ML_Notes
 | Decision Trees| |  
 | Gradient Boosting  | Ensembles are more powerful | 
 
+----------------------------------------------------------------------------------------------------------------
+
+#### Advanced - ML Bare Bones : 
+
+- [GA_TSP](https://github.com/asjad99/Genetic-Algorithms) - traveling salesman problem (TSP) using Genetic-Algorithms in C++
+- [Hybrid-CI](https://github.com/asjad99/Hybrid-CI-System) - PCA dimensionality reduction using Genetic algorithms
+- [MLP](https://github.com/asjad99/MLP) - A barebones implementation of an MLP and Backprop algorithm in C++  
 
 
 ----------------------------------------------------------------------------------------------------------------
@@ -218,3 +228,25 @@ https://github.com/asjad99/Machine-Learning-GYM/tree/main/ML_Notes
 ----------------------------------------------------------------------------------------------------------------
 
 ### ML Interviews 
+
+
+----------------------------------------------------------------------------------------------------------------
+
+#### Resources: 
+
+- [MIT's Introduction to Machine Learning] ([https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/course/])
+- [DeepLearning book chapter 4]()
+- [Andrew NG Course in ML]()
+- [PAC by j2kun](https://jeremykun.com/2014/01/02/probably-approximately-correct-a-formal-theory-of-learning/)
+- [Understanding Generalizations in Machine Learning](https://www.asjadk.io/untitled-3/)
+- [Why is ML hard](http://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html)
+- [Neural Networks](http://karpathy.github.io/neuralnets/) 
+- [Feature Engineering and dimensionality reduction](https://learning.oreilly.com/library/view/feature-engineering-for/9781491953235/)
+- [Machine Learning Mind Map](https://github.com/dformoso/machine-learning-mindmap) 
+- [Debugging ML Systems by Andrew Ng](https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2018/09/Ng-MLY01-13.pdf)
+- Book: Building Machine Learning Powered Applications going from idea to Product
+- Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps
+- [Challenges in Deploying Machine Learning: a Survey of Case Studies](https://arxiv.org/abs/2011.09926)
+- [Challenges in Production](https://blog.acolyer.org/2019/10/07/150-successful-machine-learning-models/)
+
+ 
