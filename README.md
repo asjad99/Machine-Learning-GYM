@@ -170,14 +170,25 @@ By: Michael Walker
 #### Modeling
 
 
+**Theory**
 
-
+| Topic            | Description | Code |
+|---------------------|-------------|------|
+| Introduction | | 
+| linear regression | | 
+| Techniques to avoid overfitting | | 
+| Sampling techniques | | 
+| Feature Engineering | | 
+| Interpretability | | 
+| Technical Debt in ML Systems | | 
+| Process for Building end-to-end System | | 
 
 
 https://github.com/asjad99/Machine-Learning-GYM/tree/main/ML_Notes 
 
 
 
+**Notebooks**
 
 | Notebook            | Description | Code |
 |---------------------|-------------|------|
@@ -187,8 +198,6 @@ https://github.com/asjad99/Machine-Learning-GYM/tree/main/ML_Notes
 | SVM | |  
 | Decision Trees| |  
 | Gradient Boosting  | Ensembles are more powerful | 
-
-
 
 
 
