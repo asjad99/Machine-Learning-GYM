@@ -1,21 +1,5 @@
-### About this repo 
 
-
-- Machine learning organizations automate tasks to reduce costs or scale products. The output is the automation itself
-achieved by collecting data, training models, and deploying them.
-
-- This Project and notebooks are currently 'work in progress'. 
-
-- It's inspired by [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch), peter norvig's [pytudes project](https://github.com/norvig/pytudes#pytudes-index-of-jupyter-ipython-notebooks),
-multiple Project's by folks like: [Made with ML](https://github.com/GokuMohandas/MadeWithML), [ML for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers), [Chris_albon](https://chrisalbon.com/) and many others. 
-
-- Roadmap: It provides an opportunity to document some of my own learnings and acts as a [road map](https://github.com/asjad99/machine-learning-mindmap) for self-taught learners out there to learn data science for free. 
-
-- [Computational notebooks](https://www.nature.com/articles/d41586-018-07196-1): Computational notebooks are essentially laboratory notebooks for scientific computing. We use Notebooks for Practice(as they are best suited for scientific computing). This is closely related to litrate programming paradigm(as conceived by Don Knuth) 
-
-- This is a long list. see [this great article](https://towardsdatascience.com/how-to-become-a-data-scientist-2a02ed565336) on how to approach it depending on the [Career paths you decide to take](https://workera.ai/resource_downloads/ai_career_pathways/)
-
-https://madewithml.com
+![image](https://github.com/user-attachments/assets/2c629b51-722d-4620-b5da-c2c5221c3cf5)
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -255,4 +239,22 @@ read more: [Brief History](https://github.com/asjad99/Machine-Learning-GYM/blob/
 - [Challenges in Deploying Machine Learning: a Survey of Case Studies](https://arxiv.org/abs/2011.09926)
 - [Challenges in Production](https://blog.acolyer.org/2019/10/07/150-successful-machine-learning-models/)
 
- 
+
+ ### About this repo 
+
+
+- Machine learning organizations automate tasks to reduce costs or scale products. The output is the automation itself
+achieved by collecting data, training models, and deploying them.
+
+- This Project and notebooks are currently 'work in progress'. 
+
+- It's inspired by [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch), peter norvig's [pytudes project](https://github.com/norvig/pytudes#pytudes-index-of-jupyter-ipython-notebooks),
+multiple Project's by folks like: [Made with ML](https://github.com/GokuMohandas/MadeWithML), [ML for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers), [Chris_albon](https://chrisalbon.com/) and many others. 
+
+- Roadmap: It provides an opportunity to document some of my own learnings and acts as a [road map](https://github.com/asjad99/machine-learning-mindmap) for self-taught learners out there to learn data science for free. 
+
+- [Computational notebooks](https://www.nature.com/articles/d41586-018-07196-1): Computational notebooks are essentially laboratory notebooks for scientific computing. We use Notebooks for Practice(as they are best suited for scientific computing). This is closely related to litrate programming paradigm(as conceived by Don Knuth) 
+
+- This is a long list. see [this great article](https://towardsdatascience.com/how-to-become-a-data-scientist-2a02ed565336) on how to approach it depending on the [Career paths you decide to take](https://workera.ai/resource_downloads/ai_career_pathways/)
+
+https://madewithml.com
