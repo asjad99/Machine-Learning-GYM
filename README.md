@@ -29,7 +29,7 @@ that certain customer groups are more likely to purchase?
 data science.
 
 
-![alt text](images/ml_problems.png "Logo Title Text 1")
+![alt text](ml_images/ml_problems.png "Logo Title Text 1")
 
 
 ### Brief History of AI: 
