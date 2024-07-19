@@ -211,6 +211,12 @@ read more: [Brief History](https://github.com/asjad99/Machine-Learning-GYM/blob/
 - [MLP](https://github.com/asjad99/MLP) - A barebones implementation of an MLP and Backprop algorithm in C++  
 
 
+#### Projects: 
+
+- Sequential User Session Data for build recommender system using LSTMs     
+- Anomaly detection for predictive Maintience
+
+
 ----------------------------------------------------------------------------------------------------------------
 #### MLOps on Azure Platform 
 
